@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Super app!");
+        System.out.println("Calculator for base calculationds");
 
         int a = 8;
         int b = 2;
